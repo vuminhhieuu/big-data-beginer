@@ -10,7 +10,8 @@ logger = logging.getLogger(__name__)
 conf = {
     'bootstrap.servers': 'localhost:9092',
     'group.id': 'video-group',
-    'auto.offset.reset': 'latest'
+    'auto.offset.reset': 'latest',
+    'allow.auto.create.topics': True
 }
 
 try:

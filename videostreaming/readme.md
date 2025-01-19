@@ -12,8 +12,8 @@ Dự án này thực hiện streaming video (từ webcam hoặc video file) sử
 
 1. **Clone repository:**
    ```bash
-   git clone https://github.com/vuminhhieuu/videostreaming.git
-   cd videostreaming
+   git clone https://github.com/vuminhhieuu/big-data-beginer.git
+   cd big-data-beginer/videostreaming
    ```
 
 2. **Tạo và kích hoạt môi trường ảo:**
